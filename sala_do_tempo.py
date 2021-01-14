@@ -3,7 +3,6 @@ import pyperclip
 palavra = input("palavra: ")
 palavra = palavra.upper()
 quant = int(input('vezes: '))
-
 variavel = ''
 
 while(quant != 0):
